@@ -1,0 +1,28 @@
+/*selector{
+	property: value;
+	}*/
+
+h1{
+	color: #000000;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 5px solid blue;
+}
+
+li{
+	color: rgba(11, 99, 200, .8);
+}
+
+h4{
+	background: rgb(255, 100, 100);
+}
+
+body{
+	background: pink;
+
+	/*background: url(https://tse4.mm.bing.net/th?id=OIP.Jyuw4iQQqZlTUFrog8qTnwHaFj&pid=Api&P=0&w=229&h=173);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

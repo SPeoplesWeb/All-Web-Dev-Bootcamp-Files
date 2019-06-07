@@ -1,0 +1,42 @@
+/*Custom Fonts - https://fonts.google.com*/
+
+/*Font Family*/
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+	font-family:Georgia;
+}
+
+
+/*Font Size*/
+
+h1{
+	font-size: 60px;
+}
+
+p{
+	font-size: 40px;
+}
+span{
+	font-size: 2.0em;
+}
+/*Font Weight - How bold or lightweight the text is*/
+
+p{
+	font-weight: bold;
+}
+/*Line Height - will change line spacing of the text*/
+p{
+	line-height: 1.5;
+}
+/*Text Align - will determine where the text is. Left, Right, Center*/
+
+h1{
+	text-align: right;
+}
+/*Text Decoration - Strike Through, Underline, Overline etc*/
+p{
+	text-decoration: overline;
+}

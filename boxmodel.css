@@ -1,0 +1,19 @@
+p{
+	/*Content - Width and Height*/
+
+	width: 200px;
+	/*width: 50%; -Using percentages will be the % of parent element.
+	Responds to window size.*/
+
+	/*Border*/
+	border: 2px solid blue;
+
+	/*Padding is the space between the element and the border.*/
+	/*padding: 50px; will pad it on ALL sides.*/
+
+	padding-left: 40px;
+	padding-right: 10px;
+
+	/*Margin - space between the elements OUTSIDE the border.*/
+	margin: 100px;
+}
